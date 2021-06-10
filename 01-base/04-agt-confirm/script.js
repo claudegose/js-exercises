@@ -9,8 +9,12 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
 
-    // your code here
+let a = prompt("What is your Age?", " ");
+let b = prompt("What is your Gender?", " ");
+let c = prompt("Which town do you live in?", "");
 
-})();
+
+x = confirm(`You are ${a} years old, You are a ${b} and you live in ${c}`);
+
+let isBos = confirm("Yes?")
