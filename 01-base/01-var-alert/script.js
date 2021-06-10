@@ -14,9 +14,10 @@
     // your code here
 
 const message ="Hello, World!";
+const message2 ="Are you sure?"
 
 alert(message);
-
+confirm("Do you want to confirm")
 
 
 })();
