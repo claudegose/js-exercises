@@ -18,5 +18,5 @@ if (x === "yes"){
     alert("Congratulations!");
 }
 else {
-    alert("More Cake for me :p")
+    alert("More Cake for me then:p")
 }
