@@ -9,8 +9,23 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+function black() {
+    document.body.style.backgroundColor="black"
+}
 
-    // your code here
+function red() {
+    document.body.style.backgroundColor="red"
+}
 
-})();
+function green() {
+    document.body.style.backgroundColor="green"
+}
+
+function yellow() {
+    document.body.style.backgroundColor="yellow"
+}
+
+function blue() {
+    document.body.style.backgroundColor="blue"
+}
+
