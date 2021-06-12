@@ -9,9 +9,6 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-function black() {
-    document.body.style.backgroundColor="black"
-}
 
 function red() {
     document.body.style.backgroundColor="red"

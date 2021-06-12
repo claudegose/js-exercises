@@ -15,9 +15,7 @@ let username = prompt("What is your name?", "");
 
 // Ask for Confirmation
 let infoCorrect = confirm(`Is this information correct ${username} ?`)
-if (infoCorrect === true) {
-    txt = "You pressed ok";
-} else {
+if (infoCorrect === false) {
     username = prompt("What is your name?", "");
     infoCorrect = confirm("Is the info correct?");
 }
