@@ -11,27 +11,15 @@
 
 
 // Ask User input
-let username = prompt("What is your name?", "");
+let a = prompt("What is your name?", "");
+let b = prompt("What town do you live in?", "")
+let c = prompt("What is your Gender?", "")
 
 // Ask for Confirmation
-let infoCorrect = confirm(`Is this information correct ${username} ?`)
+let infoCorrect = confirm(`Your name is ${a}, you live in ${b} and you are a ${c}`)
 if (infoCorrect === false) {
-    username = prompt("What is your name?", "");
+    let a = prompt("What is your name?", "");
+    let b = prompt("What town do you live in?", "")
+    let c = prompt("What is your Gender?", "");
     infoCorrect = confirm("Is the info correct?");
 }
-
-
-
-
-
-
-/*
-
-let a = prompt("What is your Age?", " ");
-let b = prompt("What is your Gender?", " ");
-let c = prompt("Which town do you live in?", "");
-
-
-x = confirm(`You are ${a} years old, You are a ${b} and you live in ${c}`);
-
-let isBos = confirm("Yes?"); */
