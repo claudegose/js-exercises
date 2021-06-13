@@ -11,10 +11,10 @@
 
 
 
-var myDate = new Date();
-var hrs = myDate.getHours();
+let myDate = new Date();
+let hrs = myDate.getHours();
 
-var greet;
+let greet;
 
 if(hrs < 1730)
     greet = 'Hello';
@@ -22,3 +22,6 @@ else if(hrs >= 1730)
      greet = 'Good Evening';
 
  document.getElementById("changeMe").innerHTML = greet
+
+
+
