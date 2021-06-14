@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>BeCode/JavaScript - calculator</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
+        <link rel="stylesheet" href="../../_shared/css/normalize.css" />
+        <link rel="stylesheet" href="../../_shared/css/styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>BeCode / JavaScript</h1>
+                <h2>
+                    <strong>Calculator</strong>
+                </h2>
+            </header>
+            <div class="content">
+                <section class="explain">
+                    <p>Correct the script to make the calculator work.</p>
+                </section>
+                <section class="material">
+                    <form action="#" method="post">
+
+
+
+                        <!-- First Number -->
+                        <div class="field">
+                            <label>Operand one:</label>
+                            <input type="text" name="op-one" id="number1" />
+                        </div>
+                        <!-- Second Number -->
+                        <div class="field">
+                            <label>Operand two:</label>
+                            <input type="text" name="op-two" id="number2" />
+                        </div>
+
+
+                        <!-- Buttons -->
+                        <div class="actions">
+                            <button type="button" onclick="return firstOne()" id="addition">+</button>
+                            <button type="button" onclick="return secondOne()" id="substraction">-</button>
+                            <button type="button" onclick="return thirdOne()" id="multiplication">×</button>
+                            <button type="button" onclick="return fourthOne()" id="division">÷</button>
+
+                            <b>The result is:</b>
+                            <span id="result"></span>
+                        </div>
+                    </form>
+                </section>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
+
