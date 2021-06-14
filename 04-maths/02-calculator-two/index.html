@@ -31,10 +31,13 @@
                             <input type="text" name="op-two" id="op-two" />
                         </div>
                         <div class="actions">
-                            <button type="button" class="operator" id="addition">+</button>
-                            <button type="button" class="operator" id="substraction">-</button>
-                            <button type="button" class="operator" id="multiplication">×</button>
-                            <button type="button" class="operator" id="division">÷</button>
+                            <button type="button" class="operator" onclick="first()" id="addition">+</button>
+                            <button type="button" class="operator" onclick="second()" id="substraction">-</button>
+                            <button type="button" class="operator" onclick="third()" id="multiplication">×</button>
+                            <button type="button" class="operator" onclick="fourth()" id="division">÷</button>
+
+                            <b>The Result is:</b>
+                            <span id="result"></span>
                         </div>
                     </form>
                 </section>
