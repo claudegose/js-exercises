@@ -9,8 +9,14 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+function numberOfFridaythe13thsIn(jahr) {
+    var counter = 0;
+    for (i = 1; i <= 12; i++) {
+        var d = new Date(i + "/13/" + jahr);
+        if (d.getDay() == 5) {
+            counter++;
+        }
+    }
+    return counter;
 
-    // your code here
-
-})();
+}
