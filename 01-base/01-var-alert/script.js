@@ -9,15 +9,7 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+let People = "Hello, World!"
 
-    // your code here
+alert(People)
 
-const message ="Hello, World!";
-const message2 ="Are you sure?"
-
-alert(message);
-confirm("Do you want to confirm")
-
-
-})();
