@@ -1,6 +1,6 @@
 # The fields: JavaScript
 
-Welcome to the JavaScript folder.
+Welcome to my JS Folder
 
 ## Structure
 
