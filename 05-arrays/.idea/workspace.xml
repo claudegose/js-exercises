@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bf4e69f-3961-47b6-8a5d-6a728d52c276" name="Default Changelist" comment="Changes Variable positioning for the .length">
+      <change beforePath="$PROJECT_DIR$/../00-readit-fixit-writeit/01-Read-It/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../00-readit-fixit-writeit/01-Read-It/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-readit-fixit-writeit/01-Read-It/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../00-readit-fixit-writeit/01-Read-It/03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-readit-fixit-writeit/01-Read-It/03/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../00-readit-fixit-writeit/01-Read-It/03/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-manipulate-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-manipulate-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tzZKXwE55LTbtJGpmbeogCtgjj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Push Chapter 5">
+      <created>1623761375250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623761375250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st Array Chapter 5 Complete">
+      <created>1623761440435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623761440435</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf4e69f-3961-47b6-8a5d-6a728d52c276" name="Default Changelist" comment="1st Array Chapter 5 Complete" />
+      <created>1623773820898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623773820898</updated>
+      <workItem from="1623773824892" duration="933000" />
+      <workItem from="1624438411138" duration="26000" />
+    </task>
+    <task id="LOCAL-00003" summary="Manipulate Array Complete">
+      <created>1623774735859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623774735859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes Variable positioning for the .length">
+      <created>1623774907461</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623774907461</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push Chapter 5" />
+    <MESSAGE value="1st Array Chapter 5 Complete" />
+    <MESSAGE value="Manipulate Array Complete" />
+    <MESSAGE value="Changes Variable positioning for the .length" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes Variable positioning for the .length" />
+  </component>
+</project>
