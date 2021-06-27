@@ -9,7 +9,6 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
 
     var fruits = [
         "pomme",
@@ -26,6 +25,11 @@
         "cerise",
     ];
 
-    // your code here
 
-})();
+    document.getElementById("run").addEventListener("click", () => {
+        fruits.forEach(function (fruit) {
+            console.log(fruits)
+        })
+    })
+
+

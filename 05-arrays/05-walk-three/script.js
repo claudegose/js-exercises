@@ -1,15 +1,3 @@
-/* becode/javascript
- *
- * /05-arrays/05-walk-three/script.js - 5.5: parcours de tableau (3)
- *
- * coded by leny@BeCode
- * started at 26/10/2018
- */
-
-// NOTE: don't focus on the existing code structure for now.
-// You will have time to focus on it later.
-
-(function() {
 
     var people = [
         {
@@ -39,6 +27,12 @@
         },
     ];
 
-    // your code here
+document.getElementById("run").onclick = () => {
+        people.forEach(function (peeps) {
+            console.log(Object.values(people[0]));
+        })
+    }
 
-})();
+
+
+

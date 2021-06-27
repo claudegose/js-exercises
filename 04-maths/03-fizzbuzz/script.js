@@ -1,25 +1,16 @@
-
-
-
-for (n = 1; n < 100; n++){
-if ( n % 3 === 0){
-    console.log('FIZZ');
-} else if (n % 5 === 0){
-    console.log('BUZZ');
-} else if (n % 15 === 0) {
-    console.log('FIZZBUZZ');
-} else{
-        console.log(n)
-    };
-}
-
-
-
-
-
-
-
-
+for (let num = 1; num <= 100; num++)
+    if(num % 3 ){
+        console.log("FIZZ")
+    }
+    else if(num % 5){
+        console.log("BUZZ")
+    }
+    else if(num % 15 === 0){
+        console.log("FIZZBUZZ")
+    }
+    else{
+        console.log(num)
+    }
 
 
 
