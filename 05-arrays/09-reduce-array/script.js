@@ -88,6 +88,15 @@
             age: 81,
         },
     ];
+    
+    
+    
+ document.getElementById('run').addEventListener('click', () =>{
+       let totalAge = people.reduce((total, curVal) => {
+            return total + parseFloat(curVal.age);
+       }, 0)
+        console.log(totalAge);
+   
 
     // your code here
 
